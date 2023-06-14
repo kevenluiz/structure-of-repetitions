@@ -9,6 +9,7 @@ e a média desses números.
 */
 
 public class EX3_MAIOR_E_MENOR {
+    
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
@@ -30,6 +31,9 @@ public class EX3_MAIOR_E_MENOR {
 
         System.out.println("Maior: " + maior);
         System.out.println("Média: " + (soma/5));
+    
+    
     }
+
 }
   
