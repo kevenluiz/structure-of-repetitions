@@ -1,4 +1,4 @@
-package LIB.COM.DIO.LOOPS;
+package lib.com.dio;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ e continue pedindo
 até que o usuário informe um valor válido.
 */
 
-public class EX2_NOTA {
+public class Nota {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 

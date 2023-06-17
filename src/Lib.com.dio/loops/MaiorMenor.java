@@ -1,4 +1,4 @@
-package LIB.COM.DIO.LOOPS;
+package lib.com.dio;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ e informe o maior número
 e a média desses números.
 */
 
-public class EX3_MAIOR_E_MENOR {
+public class MaiorMenor {
     
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

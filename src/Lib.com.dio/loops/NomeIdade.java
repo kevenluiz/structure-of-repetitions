@@ -1,4 +1,4 @@
-package LIB.COM.DIO.LOOPS;
+package lib.com.dio;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ o primeiro representando o nome do aluno e o segundo representando a sua idade.
 (Pare o programa inserindo o valor 0 no campo nome)
 */
 
-public class EX1NOME_E_IDADE {
+public class NomeIdade {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
