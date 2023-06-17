@@ -8,7 +8,7 @@ e informe o maior número
 e a média desses números.
 */
 
-public class MaiorMenor {
+public class BiggerSmaller {
     
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
